@@ -1,4 +1,4 @@
-##  Alternative Approach with LDR Sensor (README Update)
+##  Alternative Approach with LDR Sensor for Data generation of Greenhouse light measurement
 
 This repository also includes an alternative approach for data collection using an LDR sensor (Light Dependent Resistor). This method allows for training a regression model based on actual light intensity measurements instead of relying solely on camera data and pre-defined levels.
 
